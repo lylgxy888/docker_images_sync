@@ -1,1 +1,1 @@
-coze-server
+opencoze/opencoze:latest
